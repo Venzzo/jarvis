@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+keyboard
+requests
+playsound==1.2.2
+pywin32
+PyAudioWPatch
